@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "Arthur.Pene@eurecom.fr",
+    "project": "project-8b5efa24-8e0a-4f98-a74",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.9.3, build 5457199",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/artpene-bit/eurecomgpt.git",
+    "is_github": true,
+    "slug": "artpene-bit/eurecomgpt"
+  }
+}
