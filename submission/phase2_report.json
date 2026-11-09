@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 646.34,
+    "vectorized_ms": 5.52,
+    "speedup": 117.09
+  },
+  "threads": {
+    "1": 2579.02,
+    "2": 2340.963,
+    "4": 2870.409,
+    "8": 3358.108
+  },
+  "devices": {
+    "cpu_ms": 483752.7,
+    "gpu_ms": 13212.7
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.5067,
+    "param_count": 4935680
+  },
+  "sample": "\nPrumoy.\n\nCORIOLANUS:\nDyou nour do't?\n\nLARTIUS:\nI did crich;\nHine the is oal brothert dotth blady,\nTo revil nake him with she scracies:\nAnd as come Take was his lodges as were,\nThat children with I pra",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/project-8b5efa24-8e0a-4f98-a74-eurecomgpt/model.safetensors"
+  }
+}
